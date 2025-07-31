@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 backend/.env
+=======
+.env
+*.log
+*.tmp
+>>>>>>> 4237b7f8cc10592fc32b24fa17dc5e548d64842c
